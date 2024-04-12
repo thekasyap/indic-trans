@@ -29,7 +29,7 @@ The module currently supports the following languages:
 Links & References
 ------------------
 
-* `Official source code repo <https://github.com/libindic/indic-trans>`_
+* `Cloned source code repo <https://github.com/thekasyap/indic-trans>`_
 * `HTML documentation <http://indic-trans.readthedocs.org>`_
 * `Transliteration Blog <http://irshadbhat.github.io/gsoc>`_
 * Mailing list: silpa-discuss@nongnu.org
@@ -43,7 +43,7 @@ Dependencies
 
 `indictrans`_ requires `cython`_, and `SciPy`_.
 
-.. _`indictrans`: https://github.com/libindic/indic-trans
+.. _`indictrans`: https://github.com/thekasyap/indic-trans
 
 .. _`cython`: http://docs.cython.org/src/quickstart/install.html
 
@@ -55,7 +55,7 @@ Clone & Install
 ::
 
     Clone the repository:
-        git clone https://github.com/libindic/indic-trans.git
+        git clone https://github.com/thekasyap/indic-trans.git
         ------------------------OR--------------------------
         git clone https://github.com/irshadbhat/indic-trans.git
 
